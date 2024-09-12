@@ -13,3 +13,17 @@ Opening a File: Files can be opened using the open() function. It takes two para
 - 'a': Append. Opens the file for appending; creates the file if it doesn't exist.
 
 - 'b': Binary mode, which can be used with other modes (e.g., 'rb', 'wb').
+
+**Types of Files:**
+- Text Files: .txt, .csv, .log
+
+- Binary Files: Images, audio, video, etc.
+
+**File Modes:**
+* r: Read mode
+
+- w: Write mode (creates or overwrites a file)
+
+- a: Append mode (adds to an existing file)
+
+- rb, wb: Read/Write in binary mode
